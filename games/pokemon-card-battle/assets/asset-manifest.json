@@ -1,0 +1,267 @@
+{
+  "generatedAt": "2026-03-20T21:06:00Z",
+  "styleGuide": {
+    "palette": [
+      "#FFD700", "#E03C31", "#4B0082", "#1E90FF",
+      "#FFFACD", "#FF8C00", "#1C1C2E", "#E0F0FF",
+      "#1A3A2A", "#F5E6C8", "#1B2838", "#FFFFFF",
+      "#DAA520", "#0D0D0D"
+    ],
+    "pixelDensity": "60x60",
+    "artStyle": "pixel-art medium-detail selective-outline"
+  },
+  "assets": [
+    {
+      "key": "card-frame-electric",
+      "type": "image",
+      "path": "assets/map-objects/card-frame-electric/card-frame-electric.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Electric type card frame. Rectangular border in bright electric yellow with beveled inner edge glowing faintly white. Lightning-bolt decorative motifs at corners. Interior beige/cream area for portrait. Text zone below portrait area.",
+      "attempts": 1
+    },
+    {
+      "key": "card-frame-fire",
+      "type": "image",
+      "path": "assets/map-objects/card-frame-fire/card-frame-fire.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Fire type card frame. Rectangular border in deep crimson red fading to orange. Subtle flame texture along top and sides. Ember-shaped corner ornaments. Warm cream interior for portrait.",
+      "attempts": 1
+    },
+    {
+      "key": "card-frame-dark",
+      "type": "image",
+      "path": "assets/map-objects/card-frame-dark/card-frame-dark.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Dark type card frame. Rectangular border in deep purple with black shadow accents. Misty smoky texture with irregular edges. Wisp/ghost corner decorations. Cool pale gray interior.",
+      "attempts": 1
+    },
+    {
+      "key": "card-frame-water",
+      "type": "image",
+      "path": "assets/map-objects/card-frame-water/card-frame-water.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Water type card frame. Rectangular border in ocean blue with white foam accents. Wave-inspired flowing texture. Bubble cluster corner ornaments. Pale blue-white interior.",
+      "attempts": 1
+    },
+    {
+      "key": "card-frame-trainer",
+      "type": "image",
+      "path": "assets/map-objects/card-frame-trainer/card-frame-trainer.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Trainer card frame. Rectangular border in neutral warm gray with metallic sheen. Clean beveled edges. Small gear/tool icon at top center. Cream-beige interior.",
+      "attempts": 1
+    },
+    {
+      "key": "card-back",
+      "type": "image",
+      "path": "assets/map-objects/card-back/card-back.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Universal card back design. Deep navy blue background with centered circular Pokeball emblem in silver-white. Subtle starburst pattern radiating outward. Thin gold border.",
+      "attempts": 1
+    },
+    {
+      "key": "battlefield-bg",
+      "type": "image",
+      "path": "assets/map-objects/battlefield-bg/battlefield-bg.png",
+      "width": 400,
+      "height": 400,
+      "generationPrompt": "Top-down card game table surface. Rich dark green felt texture. Subtle lighter green zone lines. Gold decorative border. Faint Pokeball watermark at center.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-pikachu",
+      "type": "image",
+      "path": "assets/map-objects/portrait-pikachu/portrait-pikachu.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Pikachu, electric mouse Pokemon champion portrait. Bright yellow fur, red circular cheek patches crackling with tiny lightning sparks, pointed ears with black tips, sharp determined eyes, battle-ready crouched pose with one paw forward, zigzag lightning-bolt tail behind.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-armory",
+      "type": "image",
+      "path": "assets/map-objects/portrait-armory/portrait-armory.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Armory, fire-type warrior champion portrait. Fierce knight wreathed in fire, angular flame-patterned armor plates glowing orange at edges, flickering flame wisps rising from shoulders and head, visor-like helm with glowing orange eyes.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-darkrai",
+      "type": "image",
+      "path": "assets/map-objects/portrait-darkrai/portrait-darkrai.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Darkrai, dark phantom champion portrait. Sinister ethereal figure, wispy body dissolving into dark smoke tendrils, tall billowing white mane-like collar framing shadowy face, one piercing cyan-blue eye visible, midnight black body with purple undertones.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-blastoise",
+      "type": "image",
+      "path": "assets/map-objects/portrait-blastoise/portrait-blastoise.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Blastoise, water turtle champion portrait. Massive blue turtle standing upright, two steel-gray water cannons protruding from thick brown shell, powerful stocky build, calm commanding expression.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-gengar",
+      "type": "image",
+      "path": "assets/map-objects/portrait-gengar/portrait-gengar.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Gengar, ghost Pokemon portrait. Round impish purple ghost with wide mischievous grin full of pointed white teeth, large triangular red eyes, spherical deep purple body, stubby pointed limbs, two ear-like spikes on top.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-electric-a",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-electric-a/portrait-support-electric-a.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Voltorb, electric Pokemon portrait. Perfect sphere split horizontally, top half cherry red, bottom half white, thin black dividing line. Two small slanted angry eyes on the dividing line. White highlight on upper-right.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-electric-b",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-electric-b/portrait-support-electric-b.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Magnemite, electric Pokemon portrait. Metallic steel-gray sphere with single large eye, two horseshoe magnets on left and right, flat screw on top, tiny lightning arcs between magnet tips.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-fire-a",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-fire-a/portrait-support-fire-a.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Charmander, fire lizard Pokemon portrait. Small orange bipedal lizard, lighter cream belly, round head with large teal eyes, long tail curling upward with bright orange-yellow flame at tip.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-fire-b",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-fire-b/portrait-support-fire-b.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Growlithe, fire puppy Pokemon portrait. Orange-furred puppy with black tiger stripes, fluffy cream-white mane, bushy cream tail, proud sitting pose with chest puffed.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-dark-b",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-dark-b/portrait-support-dark-b.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Murkrow, dark crow Pokemon portrait. Small black crow with witch-hat shaped feather crest, bright red eyes, short yellow beak, broom-like tail feathers, blue-purple iridescent sheen.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-water-a",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-water-a/portrait-support-water-a.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Staryu, water starfish Pokemon portrait. Five-pointed golden-brown starfish with glowing red jewel at center, geometric rigid badge-like shape, perfectly symmetrical.",
+      "attempts": 1
+    },
+    {
+      "key": "portrait-support-water-b",
+      "type": "image",
+      "path": "assets/map-objects/portrait-support-water-b/portrait-support-water-b.png",
+      "width": 60,
+      "height": 60,
+      "generationPrompt": "Shellder, water clam Pokemon portrait. Dark purple bivalve clamshell slightly ajar, round face with large white eyes, prominent red tongue extending out playfully.",
+      "attempts": 1
+    },
+    {
+      "key": "icon-nest-ball",
+      "type": "image",
+      "path": "assets/map-objects/icon-nest-ball/icon-nest-ball.png",
+      "width": 40,
+      "height": 40,
+      "generationPrompt": "Nest Ball Pokeball item icon. Brown-green top hemisphere with crossed twig/nest pattern, cream-white bottom half, small yellow center button, faint green glow aura.",
+      "attempts": 1
+    },
+    {
+      "key": "icon-potion",
+      "type": "image",
+      "path": "assets/map-objects/icon-potion/icon-potion.png",
+      "width": 40,
+      "height": 40,
+      "generationPrompt": "Potion healing item icon. Small purple spray bottle with white label band, nozzle pointing upward, pink plus-sign on label, faint pink sparkle near nozzle.",
+      "attempts": 1
+    },
+    {
+      "key": "icon-energy",
+      "type": "image",
+      "path": "assets/map-objects/icon-energy/icon-energy.png",
+      "width": 40,
+      "height": 40,
+      "generationPrompt": "Universal energy card icon. White six-pointed starburst geometric shape on silver-gray gradient, clean sharp star representing power, bright white center with glow.",
+      "attempts": 1
+    },
+    {
+      "key": "attack-effect-electric",
+      "type": "image",
+      "path": "assets/map-objects/attack-effect-electric/attack-effect-electric.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Electric attack effect. Burst of jagged bright yellow lightning bolts radiating outward from central white flash impact point. Angular sharp zigzag lines with white-hot cores.",
+      "attempts": 1
+    },
+    {
+      "key": "attack-effect-fire",
+      "type": "image",
+      "path": "assets/map-objects/attack-effect-fire/attack-effect-fire.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Fire attack effect. Billowing fireball explosion expanding outward. Deep red outer flames, bright orange middle, white-yellow hot core. Ember particles floating upward.",
+      "attempts": 1
+    },
+    {
+      "key": "attack-effect-dark",
+      "type": "image",
+      "path": "assets/map-objects/attack-effect-dark/attack-effect-dark.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Dark attack effect. Shadowy vortex of dark purple-black wisps spiraling inward. Smoky ethereal tendrils converging with faint cyan flash at center impact.",
+      "attempts": 1
+    },
+    {
+      "key": "attack-effect-water",
+      "type": "image",
+      "path": "assets/map-objects/attack-effect-water/attack-effect-water.png",
+      "width": 80,
+      "height": 80,
+      "generationPrompt": "Water attack effect. Powerful water blast splash burst. White foam spray and blue droplets scattering from circular impact. Vibrant blue with white foam highlights.",
+      "attempts": 1
+    },
+    {
+      "key": "particle-sparkle",
+      "type": "image",
+      "path": "assets/map-objects/particle-sparkle/particle-sparkle.png",
+      "width": 32,
+      "height": 32,
+      "generationPrompt": "Tiny sparkle particle. Small 4-pointed star shape in white-gold, diamond cross pattern, clean simple shimmering sparkle effect.",
+      "attempts": 1
+    },
+    {
+      "key": "hp-bar-frame",
+      "type": "image",
+      "path": "assets/map-objects/hp-bar-frame/hp-bar-frame.png",
+      "width": 50,
+      "height": 32,
+      "generationPrompt": "HP bar frame. Small slim rectangular frame for health bar display. Dark gray with thin silver border. Tiny red heart icon on left end.",
+      "attempts": 1
+    }
+  ]
+}
