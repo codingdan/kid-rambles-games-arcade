@@ -1,0 +1,128 @@
+{
+  "key": "skeleton",
+  "frameWidth": 48,
+  "frameHeight": 48,
+  "rotations": {
+    "east": 0,
+    "north": 1,
+    "south": 2,
+    "west": 3
+  },
+  "animations": {
+    "breathing-idle": {
+      "east": {
+        "start": 4,
+        "end": 7,
+        "frameCount": 4
+      },
+      "north": {
+        "start": 8,
+        "end": 11,
+        "frameCount": 4
+      },
+      "south": {
+        "start": 12,
+        "end": 15,
+        "frameCount": 4
+      },
+      "west": {
+        "start": 16,
+        "end": 19,
+        "frameCount": 4
+      }
+    },
+    "falling-back-death": {
+      "east": {
+        "start": 20,
+        "end": 26,
+        "frameCount": 7
+      },
+      "north": {
+        "start": 27,
+        "end": 33,
+        "frameCount": 7
+      },
+      "south": {
+        "start": 34,
+        "end": 40,
+        "frameCount": 7
+      },
+      "west": {
+        "start": 41,
+        "end": 47,
+        "frameCount": 7
+      }
+    },
+    "lead-jab": {
+      "east": {
+        "start": 48,
+        "end": 50,
+        "frameCount": 3
+      },
+      "north": {
+        "start": 51,
+        "end": 53,
+        "frameCount": 3
+      },
+      "south": {
+        "start": 54,
+        "end": 56,
+        "frameCount": 3
+      },
+      "west": {
+        "start": 57,
+        "end": 59,
+        "frameCount": 3
+      }
+    },
+    "taking-punch": {
+      "east": {
+        "start": 60,
+        "end": 65,
+        "frameCount": 6
+      },
+      "north": {
+        "start": 66,
+        "end": 71,
+        "frameCount": 6
+      },
+      "south": {
+        "start": 72,
+        "end": 77,
+        "frameCount": 6
+      },
+      "west": {
+        "start": 78,
+        "end": 83,
+        "frameCount": 6
+      }
+    },
+    "walking": {
+      "east": {
+        "start": 84,
+        "end": 89,
+        "frameCount": 6
+      },
+      "north": {
+        "start": 90,
+        "end": 95,
+        "frameCount": 6
+      },
+      "south": {
+        "start": 96,
+        "end": 101,
+        "frameCount": 6
+      },
+      "west": {
+        "start": 102,
+        "end": 107,
+        "frameCount": 6
+      }
+    }
+  },
+  "totalFrames": 108,
+  "columns": 11,
+  "rows": 10,
+  "sheetWidth": 528,
+  "sheetHeight": 480
+}

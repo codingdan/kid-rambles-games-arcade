@@ -1,0 +1,232 @@
+{
+  "key": "oskar",
+  "frameWidth": 76,
+  "frameHeight": 76,
+  "rotations": {
+    "east": 0,
+    "north": 1,
+    "north-east": 2,
+    "north-west": 3,
+    "south": 4,
+    "south-east": 5,
+    "south-west": 6,
+    "west": 7
+  },
+  "animations": {
+    "breathing-idle": {
+      "east": {
+        "start": 8,
+        "end": 11,
+        "frameCount": 4
+      },
+      "north": {
+        "start": 12,
+        "end": 15,
+        "frameCount": 4
+      },
+      "north-east": {
+        "start": 16,
+        "end": 19,
+        "frameCount": 4
+      },
+      "north-west": {
+        "start": 20,
+        "end": 23,
+        "frameCount": 4
+      },
+      "south": {
+        "start": 24,
+        "end": 27,
+        "frameCount": 4
+      },
+      "south-east": {
+        "start": 28,
+        "end": 31,
+        "frameCount": 4
+      },
+      "south-west": {
+        "start": 32,
+        "end": 35,
+        "frameCount": 4
+      },
+      "west": {
+        "start": 36,
+        "end": 39,
+        "frameCount": 4
+      }
+    },
+    "cross-punch": {
+      "east": {
+        "start": 40,
+        "end": 45,
+        "frameCount": 6
+      },
+      "north": {
+        "start": 46,
+        "end": 51,
+        "frameCount": 6
+      },
+      "north-east": {
+        "start": 52,
+        "end": 57,
+        "frameCount": 6
+      },
+      "north-west": {
+        "start": 58,
+        "end": 63,
+        "frameCount": 6
+      },
+      "south": {
+        "start": 64,
+        "end": 69,
+        "frameCount": 6
+      },
+      "south-east": {
+        "start": 70,
+        "end": 75,
+        "frameCount": 6
+      },
+      "south-west": {
+        "start": 76,
+        "end": 81,
+        "frameCount": 6
+      },
+      "west": {
+        "start": 82,
+        "end": 87,
+        "frameCount": 6
+      }
+    },
+    "running-slide": {
+      "east": {
+        "start": 88,
+        "end": 93,
+        "frameCount": 6
+      },
+      "north": {
+        "start": 94,
+        "end": 99,
+        "frameCount": 6
+      },
+      "north-east": {
+        "start": 100,
+        "end": 105,
+        "frameCount": 6
+      },
+      "north-west": {
+        "start": 106,
+        "end": 111,
+        "frameCount": 6
+      },
+      "south": {
+        "start": 112,
+        "end": 117,
+        "frameCount": 6
+      },
+      "south-east": {
+        "start": 118,
+        "end": 123,
+        "frameCount": 6
+      },
+      "south-west": {
+        "start": 124,
+        "end": 129,
+        "frameCount": 6
+      },
+      "west": {
+        "start": 130,
+        "end": 135,
+        "frameCount": 6
+      }
+    },
+    "taking-punch": {
+      "east": {
+        "start": 136,
+        "end": 141,
+        "frameCount": 6
+      },
+      "north": {
+        "start": 142,
+        "end": 147,
+        "frameCount": 6
+      },
+      "north-east": {
+        "start": 148,
+        "end": 153,
+        "frameCount": 6
+      },
+      "north-west": {
+        "start": 154,
+        "end": 159,
+        "frameCount": 6
+      },
+      "south": {
+        "start": 160,
+        "end": 165,
+        "frameCount": 6
+      },
+      "south-east": {
+        "start": 166,
+        "end": 171,
+        "frameCount": 6
+      },
+      "south-west": {
+        "start": 172,
+        "end": 177,
+        "frameCount": 6
+      },
+      "west": {
+        "start": 178,
+        "end": 183,
+        "frameCount": 6
+      }
+    },
+    "walking-4-frames": {
+      "east": {
+        "start": 184,
+        "end": 187,
+        "frameCount": 4
+      },
+      "north": {
+        "start": 188,
+        "end": 191,
+        "frameCount": 4
+      },
+      "north-east": {
+        "start": 192,
+        "end": 195,
+        "frameCount": 4
+      },
+      "north-west": {
+        "start": 196,
+        "end": 199,
+        "frameCount": 4
+      },
+      "south": {
+        "start": 200,
+        "end": 203,
+        "frameCount": 4
+      },
+      "south-east": {
+        "start": 204,
+        "end": 207,
+        "frameCount": 4
+      },
+      "south-west": {
+        "start": 208,
+        "end": 211,
+        "frameCount": 4
+      },
+      "west": {
+        "start": 212,
+        "end": 215,
+        "frameCount": 4
+      }
+    }
+  },
+  "totalFrames": 216,
+  "columns": 15,
+  "rows": 15,
+  "sheetWidth": 1140,
+  "sheetHeight": 1140
+}

@@ -1,0 +1,40 @@
+{
+  "key": "dragon-boss",
+  "frameWidth": 96,
+  "frameHeight": 96,
+  "rotations": {
+    "east": 0,
+    "north": 1,
+    "south": 2,
+    "west": 3
+  },
+  "animations": {
+    "idle": {
+      "east": {
+        "start": 4,
+        "end": 12,
+        "frameCount": 9
+      },
+      "north": {
+        "start": 13,
+        "end": 21,
+        "frameCount": 9
+      },
+      "south": {
+        "start": 22,
+        "end": 30,
+        "frameCount": 9
+      },
+      "west": {
+        "start": 31,
+        "end": 39,
+        "frameCount": 9
+      }
+    }
+  },
+  "totalFrames": 40,
+  "columns": 7,
+  "rows": 6,
+  "sheetWidth": 672,
+  "sheetHeight": 576
+}
